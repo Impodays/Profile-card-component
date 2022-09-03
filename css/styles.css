@@ -37,7 +37,7 @@ body {
 }
 
 .card-top {
-  background: url("/images/bg-pattern-card.svg");
+  background: url("../images/bg-pattern-card.svg");
   width: 20rem;
   height: 9rem;
   border-top-left-radius: var(--radius);
